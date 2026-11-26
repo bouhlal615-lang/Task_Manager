@@ -29,7 +29,6 @@ function Tasks() {
         <div className="container mt-5">
             <div className="card shadow p-4">
                 <h1 className="text-center text-primary mb-4">
-                    <h2>Nouvelle fonctionnalité</h2>
                     <i className="bi bi-list-check"></i> Task Manager
                 </h1>
 
